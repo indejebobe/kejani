@@ -33,4 +33,4 @@ rental housing kejani/kejani/
 │   └── wireframes/ # Wireframe images or PDFs
 ├── .gitignore      # Files and directories to ignore in Git
 ├── LICENSE         # License for the project
-├── README.md       # Overview of the projectsing and office search engine
+├── README.md       # Overview of the rental housing and office search engine
